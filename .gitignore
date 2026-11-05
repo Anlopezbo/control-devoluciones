@@ -1,0 +1,16 @@
+# Variables de entorno y secretos
+.env
+.env.*
+!.env.example
+
+# Entornos virtuales Python
+.venv/
+venv/
+
+# Archivos Python
+__pycache__/
+*.py[cod]
+
+# Archivos locales de desarrollo
+.DS_Store
+*.sqlite3
